@@ -1,29 +1,18 @@
 # Data Scientist 
 
 
-### Education 
+## Education 
 BSc. in Data Science, Indian Institute of Technology, Madras
 
-### Work 
-Enhancing Business Efficiency and Customer Experience for Ali's Shawarma Truck near KIIT University. 
-The project focuses on analyzing the operational and financial performance of 'Dopamine Dose', a food truck specializing in shawarma wraps located near KIIT University. Through a comprehensive analysis of sales data, temperature variations, and customer trends, the aim is to provide insights and recommendations to enhance profitability and operational efficiency.
-
-Financial Performance Analysis:
-The financial analysis reveals a robust performance with a total revenue of ₹271,460 and a total profit of ₹106,540 over a 56-day period. The profit margin stands impressively at 39.25%, indicating healthy financial health.
-
-Performance Analysis:
-Key findings identify 'Peri peri Chicken Shawarma' as the top performer, generating ₹53,100 in revenue, while 'Special Salsa Chicken Shawarma' underperforms with only ₹3,410 in revenue. Sales trends of spicier products show intermittent spikes correlating with temperature drops.
-
-Temperature Variation Analysis:
-Temperature data analysis suggests potential correlations with sales trends, particularly during temperature declines, although conclusive evidence is lacking. Correlation heatmaps reveal weak correlations between menu items and temperature.
-
-Interpretation of Results and Recommendations:
-Analysis indicates a primarily student-based customer demographic from KIIT University. Menu item correlation analysis shows no significant dependencies between items. Recommendations include optimizing chicken quantity estimations, optimizing location for increased visibility, and investing in online delivery partnerships.
-
-Optimizing Chicken Quantity Estimations:
-By adjusting chicken quantity estimations based on menu performance, significant cost savings are projected, leading to a notable increase in profit margin.
-
-Investing in Online Delivery Partnerships:
-Partnering with online delivery services and investing in packaging solutions can expand the customer reach and increase sales.
-
-Overall, strategic adjustments based on data-driven insights, such as optimizing operations, diversifying customer base, and leveraging online platforms, can significantly enhance profitability and operational efficiency for 'Dopamine Dose' food truck near KIIT University.
+## Work 
+### Enhancing Business Efficiency and Customer Experience for Ali's Shawarma Truck through data analysis. 
+### October 2023 - February 2024
+- Sales data was collected primarily for 56 days starting from October 10th 2023 - December 5th 2023 from a local shawarma food truck. Data was cleaned and preprocessed for analysis using **pandas**.
+  Popular choice or item from the menu was determined after examining the revenue, profit generation and the units sold.
+- It was roughly noticed that the sales of spicier products on the menu went up with the temperature drop. So **temperature variation analysis** was conducted by collecting weather
+  data of concerned dates. It was concluded that temperature drop has relationship with sales of spicier products because people tend to eat food which is more likely to make them perspire as a mechanism
+  to keep them warm.
+- Sales data was checked against the holiday list of nearby university to conclude that the customer-base of the business largely composed of students of the university.The street doesn’t have any traffic signal      and it’s fairly wide allowing two-way movement of vehicles. The movement of vehicles is usually quite speedy. Parking at the side of the street results in immediate towing of the vehicle.
+- Recommendations include optimizing chicken quantity estimations, optimizing location for increased visibility, and investing in online delivery partnerships. By adjusting chicken quantity estimations based on       menu performance, significant cost savings are projected, leading to a notable increase in profit margin.
+- The new value for the cost of chicken made the profit and the profit margin jump from **₹1,06,540** and **39.25%** to **₹1,36,464.99** and **50.27%** respectively. The profit goes up by **₹29,924** and the profit-margin by **11.02 %**.
+  The new location is adjacent to a huge car parking spot which directly catches the eye of people parking there. This opens up the avenue to diversify the customer-base of the business. 
