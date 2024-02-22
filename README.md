@@ -7,6 +7,7 @@ BSc. in Data Science, Indian Institute of Technology, Madras
 ## Work 
 ### Enhancing Business Efficiency and Customer Experience for Ali's Shawarma Truck through data analysis. 
 ### October 2023 - February 2024
+#### Go through the whole project [here](https://aniketdash7.github.io/business_data_management/)
 - Sales data was collected primarily for 56 days starting from October 10th 2023 - December 5th 2023 from a local shawarma food truck. Data was cleaned and preprocessed for analysis using **pandas**.
   Popular choice or item from the menu was determined after examining the revenue, profit generation and the units sold.
 - It was roughly noticed that the sales of spicier products on the menu went up with the temperature drop. So **temperature variation analysis** was conducted by collecting weather
