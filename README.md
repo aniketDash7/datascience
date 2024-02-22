@@ -5,6 +5,13 @@
 BSc. in Data Science, Indian Institute of Technology, Madras
 
 ## Work 
+
+### Toxic Comment Classification Interface
+### January 2024
+### Go through the whole project [here](https://aniketdash7.github.io/toxic_comment_classifier/)
+The data consisted of comments and sparse representation of various features visible in the comments. Comments are sparsely described through features like 'toxic',
+'severe-toxic', 'obscene', 'threat', 'insult', 'identity-hate'. If a comment is, say, obscene then the feature gets a '1' and all the remaining features get zeroes.   
+
 ### Enhancing Business Efficiency and Customer Experience for Ali's Shawarma Truck through data analysis. 
 ### October 2023 - February 2024
 #### Go through the whole project [here](https://aniketdash7.github.io/business_data_management/)
