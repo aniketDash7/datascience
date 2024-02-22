@@ -1,10 +1,10 @@
 # Data Scientist 
-### Undergraduate at Indian Institute Of Technology, Madras
+## Undergraduate at Indian Institute Of Technology, Madras
 
 
 
-## Some of my work and implementations 
-#### Here, I document concepts I find interesting and how I use them to build things. 
+### Some of my work and implementations 
+Here, I document concepts I find interesting and how I use them to build things. 
 ( And everthing cool about generative AI ) 
 
 ### Toxic Comment Classification Interface
