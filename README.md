@@ -1,19 +1,20 @@
 # Data Scientist 
 
+#### Here, I document concepts I find interesting and how I use them to build things. 
 
-## Education 
-BSc. in Data Science, Indian Institute of Technology, Madras
+## Indian Institute Of Technology, Madras
 
-## Work 
+## Some of my work and implementations 
+### ( And everthing cool about generative AI ) 
 
 ### Toxic Comment Classification Interface
-### January 2024
+#### January 2024
 #### Go through the whole project [here](https://aniketdash7.github.io/toxic_comment_classifier/)
 The data consisted of comments and sparse representation of various features visible in the comments. Comments are sparsely described through features like 'toxic',
 'severe-toxic', 'obscene', 'threat', 'insult', 'identity-hate'. If a comment is, say, obscene then the feature gets a '1' and all the remaining features get zeroes.   
 
 ### Enhancing Business Efficiency and Customer Experience for Ali's Shawarma Truck through data analysis. 
-### October 2023 - February 2024
+#### October 2023 - February 2024
 #### Go through the whole project [here](https://aniketdash7.github.io/business_data_management/)
 - Sales data was collected primarily for 56 days starting from October 10th 2023 - December 5th 2023 from a local shawarma food truck. Data was cleaned and preprocessed for analysis using **pandas**.
   Popular choice or item from the menu was determined after examining the revenue, profit generation and the units sold.
