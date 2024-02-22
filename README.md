@@ -5,16 +5,25 @@
 
 ### Some of my work and implementations 
 Here, I document concepts I find interesting and how I use them to build things. 
-( And everthing cool about generative AI ) 
+( And everthing cool about genAI and NLP) 
 
 #### Toxic Comment Classification Interface
-January 2024
+(January 2024)
+
 Go through the whole project [here](https://aniketdash7.github.io/toxic_comment_classifier/)
 The data consisted of comments and sparse representation of various features visible in the comments. Comments are sparsely described through features like 'toxic',
-'severe-toxic', 'obscene', 'threat', 'insult', 'identity-hate'. If a comment is, say, obscene then the feature gets a '1' and all the remaining features get zeroes.   
+'severe-toxic', 'obscene', 'threat', 'insult', 'identity-hate'. If a comment is, say, obscene then the feature gets a '1' and all the remaining features get zeroes.
+The comment text data requires a conversion to numerical format which a model understands. I built a vocabulary of upto 200,000 words from the text data and ensured all
+sequences are of fixed length ( 1800 in this case ) for consistent input to the model. 
+- Then I prepared the text data for training by converting it into a **TensorFlow** dataset, cached it for faster access, shuffled it for randomness, batched it for efficiency
+  and prefetched for improving performance during training.
+- The **model** consisted of an embedding layer followed by a **bidirectional LSTM layer** and several dense layers. The output layer uses sigmoid activation function to predict
+  the probability of each class in multi-label classification problem.
+  **Fun fact** - An embedding layer is a fundamental component in natural language processing (NLP) tasks within neural network architectures. Its primary purpose is to convert categorical data, such as words or    characters, into dense vectors of fixed size, called embeddings. 
 
 #### Enhancing Business Efficiency and Customer Experience for Ali's Shawarma Truck through data analysis. 
-October 2023 - February 2024
+(October 2023 - February 2024)
+
 Go through the whole project [here](https://aniketdash7.github.io/business_data_management/)
 - Sales data was collected primarily for 56 days starting from October 10th 2023 - December 5th 2023 from a local shawarma food truck. Data was cleaned and preprocessed for analysis using **pandas**.
   Popular choice or item from the menu was determined after examining the revenue, profit generation and the units sold.
