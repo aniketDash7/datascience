@@ -13,7 +13,8 @@ Here, I document concepts I find interesting and how I use them to build things.
 #### Analysis Report | Business Analysis : [Enhancing Business Efficiency and Customer Experience](https://aniketdash7.github.io/business_data_management/)
 (October 2023 - February 2024)
 
-#### Kaggle Competiton Challenge | NLP : [Sentiment Analysis of Movie Reviews]()
+#### Kaggle Competiton Challenge | NLP : [Sentiment Analysis of Movie Reviews](https://aniketdash7.github.io/sentiment_analysis_movie_reviews)
+(July 2023) 
 
 #### Article : [Recommendation Engine and feelings](https://medium.com/@aniket.addash/recommendation-engine-and-feelings-38d9842e8ce1)
 (June 2023) 
