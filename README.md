@@ -2,7 +2,7 @@
 ## Undergraduate at Indian Institute Of Technology, Madras
 
 
-
+<font color="black">
 ### Some of my recent work and implementations 
 Here, I document concepts I find interesting and how I use them to build things. 
 ( And everthing cool about genAI and NLP) 
@@ -20,3 +20,4 @@ Here, I document concepts I find interesting and how I use them to build things.
 #### Web Application | Flask | Jinja | SQLAlchemy : [Chime - Social Media Blog](https://aniketdash7.github.io/chime) (March 2023)
  
 
+</font>
