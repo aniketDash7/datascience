@@ -6,6 +6,7 @@
 <font color="black">Here, I document concepts I find interesting and how I use them to build things. 
 ( And everthing cool about genAI and NLP) 
 </font>
+- #### Implementation | NLP : [Programmatic Implementation of use cases of LLM](https://aniketdash7.github.io/llm_overview/) (February 2024)
 - #### Implementation | NLP : [Implementation of Vector Embeddings](https://aniketdash7.github.io/vector_embeddings/) (February 2024)
 - #### Classifier | Interface | NLP : [Toxic Comment Classification Interface](https://aniketdash7.github.io/toxic_comment_classifier/) (January 2024)
 - #### Analysis Report | Business Analysis : [Enhancing Business Efficiency and Customer Experience](https://aniketdash7.github.io/business_data_management/) (October 2023 - February 2024)
