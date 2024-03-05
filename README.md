@@ -14,4 +14,4 @@
 - #### Kaggle Competiton Challenge | NLP : [Sentiment Analysis of Movie Reviews](https://aniketdash7.github.io/sentiment_analysis_movie_reviews) (July 2023)
 - #### Article : [Recommendation Engine and feelings](https://medium.com/@aniket.addash/recommendation-engine-and-feelings-38d9842e8ce1) (June 2023)
 - #### Web-Application | Flask | Vue.js | Redis | Celery | SQLAlchemy : [Juke - Music Streaming Application](https://aniketdash7.github.io/juke) (September 2023)
-- #### Web-Application | Flask | Jinja | SQLAlchemy : [Chime - Social Media Blog](https://aniketdash7.github.io/chime) (March 2023)
+- #### Web-Application | Flask | Jinja | SQLAlchemy : [Chime - Social Media Blog](https://aniketdash7.github.io/Chime) (March 2023)
